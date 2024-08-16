@@ -1,3 +1,7 @@
+# 1. MPS = psi + psi 
+# 2. MPS = psi + g*psi, g is symmetric action and psi is SSB.
+
+
 using LinearAlgebra,TensorKit,KrylovKit
 D = 4;
 m = 3
